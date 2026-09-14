@@ -35,8 +35,6 @@ La navegación se gestiona con **Navigation Compose** desde `MainActivity.kt`.
 
 ## 🖼️ Screenshots
 
-> Coloca aquí las capturas de tu app. Solo sube las imágenes a la carpeta [`screenshots/`](./screenshots) con los nombres indicados y se verá así:
-
 | Welcome | Dashboard | Simulator |
 | :---: | :---: | :---: |
 | <img src="screenshots/welcome.png" width="220"> | <img src="screenshots/dashboard.png" width="220"> | <img src="screenshots/simulator.png" width="220"> |
